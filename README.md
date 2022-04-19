@@ -1,2 +1,2 @@
 # DevOps repozitorijs
-Anita Mateika DevOps repozitorijs pamati iesācējiem
+Anitas Mateikas DevOps repozitorijs pamati iesācējiem
